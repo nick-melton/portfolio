@@ -1,0 +1,11 @@
+.fit-content {
+    width: fit-content;
+}
+
+.self-center {
+    align-self: center;
+}
+
+.m-l-10 {
+    margin-left: 10px !important;
+}

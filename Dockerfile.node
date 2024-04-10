@@ -1,0 +1,23 @@
+# Set the base image
+FROM node:20
+
+USER root
+
+# Set working directory
+WORKDIR /var/www
+
+# Copy `package.json` and `package-lock.json`
+COPY package*.json ./
+
+RUN npm install
+
+# Copy project files into the docker image
+COPY . .
+
+RUN npm run build
+
+# Expose the port Vite runs on
+EXPOSE 3000
+
+# Start the Vite server
+ENTRYPOINT ["npm", "run", "dev"]

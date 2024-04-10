@@ -1,0 +1,11 @@
+map $host $app_main_url {
+  default $APP_MAIN_URL;
+}
+
+map $host $ssl_cert_path {
+  default $SSL_CERT_PATH;
+}
+
+map $host $ssl_key_path {
+  default $SSL_KEY_PATH;
+}
