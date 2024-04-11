@@ -16,6 +16,7 @@
                 <md-card class="md-elevation-7 experience-card">
                     <md-card-header>
                         <div class="md-title">{{ item.name }}</div>
+                        <div class="position md-subheading">{{ item.position }}</div>
                         <div class="period">{{ item.period }}</div>
                     </md-card-header>
                     <md-card-content>
@@ -210,6 +211,10 @@
 
     .period {
         margin-top: 10px;
+    }
+
+    .position {
+        margin-top: 10px !important;
     }
 
     .checkbox {
