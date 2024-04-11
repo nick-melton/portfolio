@@ -110,7 +110,7 @@
                     },
                     {
                         name: 'ISC Respect',
-                        position: 'Middle Full-Stack Engineer',
+                        position: 'Full-Stack Engineer',
                         period: 'Jun 2018 - Jul 2021',
                         achievements: [
                             'Increased the company wages on 20% in 2019 by providing Fin-tech tools to issue insurance contracts and manage company operations',
