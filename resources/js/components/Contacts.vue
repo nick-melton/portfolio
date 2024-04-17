@@ -20,6 +20,9 @@
                     <br>
                     <br>
                     LinkedIn: <a href="https://www.linkedin.com/in/nick-melton12">https://www.linkedin.com/in/nick-melton12</a>
+		    <br>
+		    <br>
+		    GitHub: <a href="https://github.com/nick-melton">https://github.com/nick-melton</a>
                 </div>
             </md-content>
             <div class="md-display-2 send-btn">Or just send it via the form</div>

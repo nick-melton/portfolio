@@ -50,7 +50,7 @@
                     {
                         name: 'WhyKingz',
                         position: 'Senior Full-Stack Engineer',
-                        period: 'Jul 2023 - Apr 2024',
+                        period: 'Jul 2023 - June 2024',
                         achievements: [
                             'Improved company quarterly reports generation performance on 30% by batching request as messages for RabbitMQ instead of single full-loaded process',
                             'Developed validation of Fin-tech balances with prediction of 90% balance accuracy faults',
