@@ -48,7 +48,7 @@
                 checkedBoxes: true,
                 items: [
                     {
-                        name: 'WhyKingz',
+                        name: 'TheWhyKingz',
                         position: 'Senior Full-Stack Engineer',
                         period: 'Jul 2023 - June 2024',
                         achievements: [

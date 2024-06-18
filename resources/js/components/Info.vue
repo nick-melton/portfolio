@@ -22,16 +22,14 @@
                 </div>
             </div>
             <md-content class="md-subheading md-elevation-10">
-                I have over 5 years of experience working on commercial projects in various business domains,
-                including FinTech, digital marketing, education, insurance, and document management. My
-                experience includes building client-server applications, moving monolith projects to micro-services
-                architecture, starting projects from scratch, building MVP, improving CI/CD processes, two-way
-                data syncing between legacy and new services. 
+                As a Senior Full-Stack Engineer with 6 years of experience working in various domains I combine technical skills and 
+                business knowledge to create innovative and scalable solutions. My most recent and impactful experience was developing 
+                Ankorstore, a large wholesale marketplace that connects over 30,000 brands and 300,000 retailers from 26 countries, 
+                with Sigma Software Group.
                 <br>
                 <br>
-                Also I’m into mentoring: I was in charge of few
-                projects where I mentored interns and juniors who strongly grew up after the projects were
-                finished. So I’m seeking for some new challenges, interesting projects and nice team to work with.
+                I’ve been building the projects from scratch, using React.js, Vue.js, Python, PHP and AWS. I contributed to improving 
+                the company's processes and reducing annual costs by implementing fresh tech solutions.
                 <br>
                 <br>
                 Some of the projects presented below are under NDA, so only few of them were exposed.
