@@ -52,10 +52,10 @@
                         position: 'Senior Full-Stack Engineer',
                         period: 'Jul 2023 - June 2024',
                         achievements: [
-                            'Improved company quarterly reports generation performance on 30% by batching request as messages for RabbitMQ instead of single full-loaded process',
+                            'Improved company quarterly reports generation performance by 30% by batching requests as messages for RabbitMQ instead of single full-loaded process',
                             'Developed validation of Fin-tech balances with prediction of 90% balance accuracy faults',
                             'Suggested and implemented full UI/UX redesign of company Fin-tech service',
-                            'Fixed DB performance issues and gained background scripts execution speed on 25%',
+                            'Fixed DB performance issues and gained background scripts execution speed by 25%',
                         ],
                         skills: [
                             'PHP',
@@ -83,9 +83,9 @@
                         position: 'Senior Full-Stack Engineer',
                         period: 'Aug 2021 - Jul 2023',
                         achievements: [
-                            'Suggested and developed solution for marketplace that allowed to reduce 150k euro on 2022 budget of company',
+                            'Suggested and developed innovative solutions for marketplace that allowed to reduce 150k euro on 2022 budget of company',
                             'Decreased costs on supporting legacy codebase by migrating to new micro-service infrastructure',
-                            'Set up projects pipelines (linters, tests, pre-commit), gained development speed on 15%',
+                            'Set up projects pipelines (linters, tests, pre-commit), gained development speed by 15%',
                             'Integrated headless CMS to existing service to let management change the content via convenient tool',
                         ],
                         skills: [
@@ -114,10 +114,10 @@
                         position: 'Full-Stack Engineer',
                         period: 'Jun 2018 - Jul 2021',
                         achievements: [
-                            'Increased the company wages on 20% in 2019 by providing Fin-tech tools to issue insurance contracts and manage company operations',
-                            'Reduced company costs on 10% on Customer Support department by providing Telegram bot tool to handle customers requests',
-                            'Integrated partners services to gain processes efficiency and increase clients base on 2k+',
-                            'Provided documents archiving tools to free server space on 140GB+',
+                            'Increased the company wages by 20% in 2019 by providing Fin-tech tools to issue insurance contracts and manage company operations',
+                            'Reduced company costs by 10% on Customer Support department by providing Telegram bot tool to handle customers requests',
+                            'Integrated partners services to gain processes efficiency and increase clients base by 2k+',
+                            'Provided document archiving tool to free up 140GB+ of space',
                         ],
                         skills: [
                             'PHP',

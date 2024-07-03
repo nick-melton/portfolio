@@ -22,13 +22,13 @@
                 </div>
             </div>
             <md-content class="md-subheading md-elevation-10">
-                As a Senior Full-Stack Engineer with 6 years of experience working in various domains I combine technical skills and 
+                As a Senior Full-Stack Engineer with 6 years of experience working in various domains, I combine technical skills and 
                 business knowledge to create innovative and scalable solutions. My most recent and impactful experience was developing 
                 Ankorstore, a large wholesale marketplace that connects over 30,000 brands and 300,000 retailers from 26 countries, 
                 with Sigma Software Group.
                 <br>
                 <br>
-                I’ve been building the projects from scratch, using React.js, Vue.js, Python, PHP and AWS. I contributed to improving 
+                I'm proficient at these technologies: React.js, Vue.js, Python, PHP and AWS. I contributed to improving 
                 the company's processes and reducing annual costs by implementing fresh tech solutions.
                 <br>
                 <br>
