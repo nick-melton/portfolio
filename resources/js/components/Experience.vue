@@ -17,6 +17,12 @@
                     <md-card-header>
                         <div class="md-title">{{ item.name }}</div>
                         <div class="position md-subheading">{{ item.position }}</div>
+                        <div class="location-block">
+                            <div class="icon-block">
+                                <md-icon class="md-size-2x experience-icon">location_on</md-icon>
+                            </div>
+                            <div class="location">{{ item.location }}</div>
+                        </div>
                         <div class="period">{{ item.period }}</div>
                     </md-card-header>
                     <md-card-content>
@@ -50,6 +56,7 @@
                     {
                         name: 'TheWhyKingz',
                         position: 'Senior Full-Stack Engineer',
+                        location: 'Remote',
                         period: 'Jul 2023 - June 2024',
                         achievements: [
                             'Improved company quarterly reports generation performance by 30% by batching requests as messages for RabbitMQ instead of single full-loaded process',
@@ -81,6 +88,7 @@
                     {
                         name: 'Sigma Software',
                         position: 'Senior Full-Stack Engineer',
+                        location: 'Remote',
                         period: 'Aug 2021 - Jul 2023',
                         achievements: [
                             'Suggested and developed innovative solutions for marketplace that allowed to reduce 150k euro on 2022 budget of company',
@@ -112,6 +120,7 @@
                     {
                         name: 'ISC Respect',
                         position: 'Full-Stack Engineer',
+                        location: 'Ukraine',
                         period: 'Jun 2018 - Jul 2021',
                         achievements: [
                             'Increased the company wages by 20% in 2019 by providing Fin-tech tools to issue insurance contracts and manage company operations',
@@ -215,6 +224,16 @@
 
     .position {
         margin-top: 10px !important;
+    }
+
+    .location-block {
+        display: flex;
+        flex-direction: row;
+        margin-top: 10px;
+    }
+
+    .location {
+        margin-left: 10px;
     }
 
     .checkbox {
