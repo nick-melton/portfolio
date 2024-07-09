@@ -229,7 +229,8 @@
     .location-block {
         display: flex;
         flex-direction: row;
-        margin-top: 10px;
+        align-items: center;
+        margin-top: 15px;
     }
 
     .location {
