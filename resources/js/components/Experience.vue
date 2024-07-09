@@ -17,13 +17,13 @@
                     <md-card-header>
                         <div class="md-title">{{ item.name }}</div>
                         <div class="position md-subheading">{{ item.position }}</div>
+                        <div class="period">{{ item.period }}</div>
                         <div class="location-block">
                             <div class="icon-block">
-                                <md-icon class="md-size-5x experience-icon">location_on</md-icon>
+                                <md-icon>location_on</md-icon>
                             </div>
                             <div class="location">{{ item.location }}</div>
                         </div>
-                        <div class="period">{{ item.period }}</div>
                     </md-card-header>
                     <md-card-content>
                         <div class="achievement" v-for="achievement in item.achievements" :key="achievement">
