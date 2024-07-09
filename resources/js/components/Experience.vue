@@ -22,7 +22,7 @@
                             <div class="icon-block">
                                 <md-icon>location_on</md-icon>
                             </div>
-                            <div class="location">{{ item.location }}</div>
+                            <div class="location">{{ item.location }}</div> 
                         </div>
                     </md-card-header>
                     <md-card-content>
