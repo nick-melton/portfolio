@@ -46,7 +46,7 @@
                 items: [
                     {
                         name: 'Fin-tech reporting service',
-                        period: 'Nov 2023 - June 2024',
+                        period: 'Nov 2023 - July 2024',
                         description: 'Internal company Fin-tech reporting service with millions transactions being gathered and analysed. Maintained and moved company legacy service to newer versions of tech stack. Changed processes to improve performance using best tech practices',
                         skills: [
                             'PHP',
