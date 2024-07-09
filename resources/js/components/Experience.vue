@@ -19,7 +19,7 @@
                         <div class="position md-subheading">{{ item.position }}</div>
                         <div class="location-block">
                             <div class="icon-block">
-                                <md-icon class="md-size-2x experience-icon">location_on</md-icon>
+                                <sm-icon class="md-size-2x experience-icon">location_on</sm-icon>
                             </div>
                             <div class="location">{{ item.location }}</div>
                         </div>
