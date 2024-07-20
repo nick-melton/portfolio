@@ -123,7 +123,7 @@
                         location: 'Ukraine',
                         period: 'Jun 2018 - Jul 2021',
                         achievements: [
-                            'Increased the company wages by 20% in 2019 by providing Fin-tech tools to issue insurance contracts and manage company operations',
+                            'Increased the company income by 7% in 2019 by providing Fin-tech tools to issue insurance contracts and manage company operations',
                             'Reduced company costs by 10% on Customer Support department by providing Telegram bot tool to handle customers requests',
                             'Integrated partners services to gain processes efficiency and increase clients base by 2k+',
                             'Provided document archiving tool to free up 140GB+ of space',
